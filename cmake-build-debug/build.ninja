@@ -49,11 +49,11 @@ cmake_ninja_workdir = C$:/DiskD/projects/c/drudiy/cmake-build-debug/
 
 build cmake_object_order_depends_target_drudiy: phony || CMakeFiles/drudiy.dir
 
-build CMakeFiles/drudiy.dir/t06/mx_hexadecimal.c.obj: C_COMPILER__drudiy_Debug C$:/DiskD/projects/c/drudiy/t06/mx_hexadecimal.c || cmake_object_order_depends_target_drudiy
-  DEP_FILE = CMakeFiles\drudiy.dir\t06\mx_hexadecimal.c.obj.d
+build CMakeFiles/drudiy.dir/t09/mx_printstr.c.obj: C_COMPILER__drudiy_Debug C$:/DiskD/projects/c/drudiy/t09/mx_printstr.c || cmake_object_order_depends_target_drudiy
+  DEP_FILE = CMakeFiles\drudiy.dir\t09\mx_printstr.c.obj.d
   FLAGS = -g -std=gnu11
   OBJECT_DIR = CMakeFiles\drudiy.dir
-  OBJECT_FILE_DIR = CMakeFiles\drudiy.dir\t06
+  OBJECT_FILE_DIR = CMakeFiles\drudiy.dir\t09
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/drudiy.dir/t06/mx_hexadecimal.c.obj: C_COMPILER__drudiy_Debug C
 #############################################
 # Link the executable drudiy.exe
 
-build drudiy.exe: C_EXECUTABLE_LINKER__drudiy_Debug CMakeFiles/drudiy.dir/t06/mx_hexadecimal.c.obj
+build drudiy.exe: C_EXECUTABLE_LINKER__drudiy_Debug CMakeFiles/drudiy.dir/t09/mx_printstr.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\drudiy.dir

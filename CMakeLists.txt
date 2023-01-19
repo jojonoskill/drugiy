@@ -3,4 +3,4 @@ project(drudiy C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(drudiy ./t06/mx_hexadecimal.c)
+add_executable(drudiy ./t09/mx_printstr.c)
