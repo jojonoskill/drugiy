@@ -1,0 +1,3 @@
+C:/DiskD/projects/c/drudiy/cmake-build-debug/CMakeFiles/drudiy.dir
+C:/DiskD/projects/c/drudiy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/DiskD/projects/c/drudiy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

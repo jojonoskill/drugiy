@@ -1,0 +1,16 @@
+# ninja log v5
+0	58	6958396099561771	CMakeFiles/drudiy.dir/main.c.obj	15193b07ca80c0c5
+1	81	6958470151658653	build.ninja	91571e7b09cc6836
+45	109	6958468619788334	drudiy.exe	457cdae9d607041b
+2	690	6958419517699287	CMakeFiles/drudiy.dir/mx_matrix_voice.c.obj	2d1a9ff1c88a4e74
+1	45	6958468619183495	CMakeFiles/drudiy.dir/mx_printchar.c.obj	46280c68d953cf1
+1	87	6958397190885886	CMakeFiles/drudiy.dir/mx_say_wake_up.c.obj	792985b5a9c23392
+2	60	6958412461972655	CMakeFiles/drudiy.dir/mx_write_knock_knock.c.obj	a43034e4b954b0e3
+2	55	6958444201487428	CMakeFiles/drudiy.dir/mx_only_printable.c.obj	93b5e4ef8fd73ab9
+0	54	6958449152702412	CMakeFiles/drudiy.dir/t05/mx_only_printable.c.obj	f24b142692503782
+1	62	6958467410393192	CMakeFiles/drudiy.dir/t06/mx_hexadecimal.c.obj	6b9deaf40c843a86
+1	83	6958470151658653	build.ninja	91571e7b09cc6836
+2	59	6958471507805800	CMakeFiles/drudiy.dir/t06/mx_hexadecimal.c.obj	6b9deaf40c843a86
+59	114	6958471508356455	drudiy.exe	539a024eba15eeaf
+1	53	6958472833202273	CMakeFiles/drudiy.dir/t06/mx_hexadecimal.c.obj	6b9deaf40c843a86
+53	112	6958472833743160	drudiy.exe	539a024eba15eeaf
