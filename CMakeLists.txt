@@ -3,4 +3,4 @@ project(drudiy C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(drudiy ./t09/mx_printstr.c)
+add_executable(drudiy sprint02/t14/mx_printint.c)

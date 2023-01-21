@@ -101,7 +101,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "t09/mx_printstr.c",
+			"path" : "sprint02/t14/mx_printint.c",
 			"sourceGroupIndex" : 0
 		}
 	],
